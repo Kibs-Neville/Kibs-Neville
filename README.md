@@ -1,6 +1,11 @@
 ## 👋 Hi there, I'm Neville Evan Kibwanga
 
-🎓 **Computer Science Graduate** | 📊 **Data Enthusiast**
+🎓 **Computer Science Graduate** | 📊 **Data Enthusiast
+
+![Total Coded Time](https://img.shields.io/badge/Total%20Coded-61hrs%2048mins-blue?style=flat-square&logo=wakatime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -12,17 +17,17 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Current Focus.
 
-- 🔧 Building scalable data pipelines
-- 🛠️ Learning tools like **Airflow**, **Docker**, **dbt** , among others
-- 🔭 Distributed computing $ Data engineering
+- 🔧 Building scalable data pipelines.
+- 🛠️ Learning tools like **Airflow**, **Docker**, **dbt** , among others.
+- 🔭 Distributed computing & Data engineering.
 
 
 ---
 
 ## 📬 Let's Connect!
 
-- 📧 [Email me](nkibwanga@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/neville-evan-0047a1244)
+- 📧 [**Email me**](nkibwanga@gmail.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/neville-evan-0047a1244)
 
