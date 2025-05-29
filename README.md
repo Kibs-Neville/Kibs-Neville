@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi there, I'm Neville Evan Kibwanga
 
-<!--
-**Kibs-Neville/Kibs-Neville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** | 📊 **Data Enthusiast**
+ 🇰🇪  Based in Kenya | 🏗️ Passionate about building impactful data solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a data-driven technologist passionate about using data to solve real-world problems. With a good foundation in **data science**, **data analysis**, and **data engineering**, I enjoy working across the full data stack — from data extraction and pipeline automation to insightful reporting and machine learning experimentation.
+
+I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of monthly reporting using tools like **Power BI** and **Python**.
+
+---
+
+## 🧠 Current Focus
+
+- 🔧 Building scalable data pipelines
+- 🛠️ Learning tools like **Airflow**, **Docker**, **dbt** , among others
+- 🔭 Distributed computing $ Data engineering
+
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 [Email me](nkibwanga@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/neville-evan-0047a1244)
+
