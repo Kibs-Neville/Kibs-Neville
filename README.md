@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Neville Evan Kibwanga
 
 🎓 **Computer Science Graduate** | 📊 **Data Enthusiast**
- 🇰🇪  Based in Kenya | 🏗️ Passionate about building impactful data solutions
 
 ---
 
