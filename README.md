@@ -17,7 +17,7 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 
 ---
 
-## 🧠 Current Focus.
+## 🧠 Current Focus
 
 - 🔧 Building scalable data pipelines.
 - 🛠️ Learning tools like **Airflow**, **Docker**, **dbt** , among others.
