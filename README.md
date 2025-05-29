@@ -28,6 +28,8 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 
 ## 📬 Let's Connect!
 
-- 📧 [**Email me**](nkibwanga@gmail.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/neville-evan-0047a1244)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](nkibwanga@gmail.com.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/neville-evan-0047a1244)
+
+
 
