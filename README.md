@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate** | 📊 **Data Enthusiast
 
-![Total Coded Time](https://img.shields.io/badge/Total%20Coded-61hrs%2048mins-blue?style=flat-square&logo=wakatime)
+![Total Coding Time](https://img.shields.io/badge/Total%20Coded-61hrs%2048mins-blue?style=flat-square&logo=wakatime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
