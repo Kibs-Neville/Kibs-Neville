@@ -22,6 +22,7 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 - 🔧 Building scalable data pipelines.
 - 🔭 Exploring the **Modern Data Stack**.
 - 🔭 Distributed computing & data engineering.
+- 🔭 Neural networks.
 
 
 ---
