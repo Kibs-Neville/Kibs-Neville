@@ -19,10 +19,10 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 
 ## 🧠 Current Focus
 
-- Machine Learning.
+- AI & Machine Learning.
 - Exploring the **Modern Data Stack**.
 - Distributed computing & data engineering.
-- Neural networks.
+- Neural networks & Deep Learning.
 
 
 ---
