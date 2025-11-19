@@ -21,7 +21,8 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 
 - AI & Machine Learning.
 - Exploring the **Modern Data Stack**.
-- Neural networks & Deep Learning.
+- Neural Networks & Deep Learning.
+- Distribiuted Computing.
 
 
 ---
