@@ -2,7 +2,7 @@
 
 **Computer Science Senior** | **Data Enthusiast**
 
- ![Total Coding Time](https://img.shields.io/badge/wakatime-112hrs%2054mins-blue?style=flat-square&logo=wakatime)
+ ![Total Coding Time](https://img.shields.io/badge/wakatime-168hrs%2039mins-blue?style=flat-square&logo=wakatime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
