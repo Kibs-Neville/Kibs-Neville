@@ -9,7 +9,7 @@
 
 ---
 
-### About Me
+### 🚀 About Me
 
 I'm a data-driven technologist passionate about using data to solve real-world problems. With a good foundation in **machine learning**, **data analysis**, and **data engineering**, I enjoy working across the full data stack — from data extraction and pipeline automation to insightful reporting and machine learning experimentation.
 
@@ -17,7 +17,7 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 
 ---
 
-### Current Focus
+### 🧠 Current Focus
 
 - Natural Language Processing
 - Data Engineering
