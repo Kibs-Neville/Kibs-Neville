@@ -19,7 +19,7 @@ I’ve worked as a **Data Analyst at FIDA Kenya**, where I led the automation of
 
 ### 🧠 Current Focus
 
-- Natural Language Processing
+- Machine Learning
 - Data Engineering
 
 
