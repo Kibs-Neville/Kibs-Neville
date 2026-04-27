@@ -1,6 +1,6 @@
 ### 👋Hi there, I'm Neville Evan Kibwanga
 
-**Computer Science Senior** | **Data Enthusiast**
+**Data Enthusiast**
 
  ![Total Coding Time](https://img.shields.io/badge/wakatime-168hrs%2039mins-blue?style=flat-square&logo=wakatime)
 
